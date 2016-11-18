@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=matrix
+comment0.target=GaussianElimination(java.lang.Double[][])
+comment1.params=column_num
+comment1.target=int\ maxRow(int)
+comment2.params=rownum\ rownum2
+comment2.target=void\ swapRows(int,\ int)
+comment3.params=L\ rowToMinus
+comment3.target=void\ minusRows(java.util.ArrayList,\ int)
+comment4.params=rownum\ factor\ rowtominus
+comment4.target=void\ scaleRow(int,\ double,\ int)
+comment5.params=
+comment5.target=void\ reduce()
+numComments=6
